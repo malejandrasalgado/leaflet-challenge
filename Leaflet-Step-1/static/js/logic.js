@@ -27,3 +27,19 @@ var outdoorsmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/{id}/tile
     accessToken: API_KEY
 });
 console.log("outdoorsmap is ",outdoorsmap)
+
+
+// Initialize all of the LayerGroups we'll be using
+
+var earthquakes = new L.LayerGroup();
+console.log("earthquakes is ",earthquakes)
+
+// Create a baseMaps objects to hold the Layers
+
+var baseMaps = {
+    "Satellite": satellitemap,
+    "Grayscale": graymap,
+    "Outdoors": outdoorsmap
+};
+console.log("baseMaps is ",baseMaps)
+
