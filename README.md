@@ -31,6 +31,8 @@ On GitHub the following task where required
 5. Include popups that provide additional information about the earthquake when a marker is clicked.
 6. Create a legend that will provide context for your map data.
 
+![](https://github.com/malejandrasalgado/leaflet-challenge/blob/main/Leaflet-Step-1/static/images/Leaflet%20plots%20earthquakes.png)
+
 ### Bonus: More Data (Optional)
 
 7. Plot a second data set on our map
