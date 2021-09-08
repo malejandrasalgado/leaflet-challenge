@@ -39,8 +39,7 @@ On GitHub the following task where required
 8. Add a number of base maps to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
 9. Add layer controls to our map.
 
-
-
+![](https://github.com/malejandrasalgado/leaflet-challenge/blob/main/Leaflet-Step-1/static/images/Relationship%20between%20tectonic%20plates%20and%20seismic%20activity.png)
 
 ### HTML
 
